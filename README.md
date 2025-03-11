@@ -5,7 +5,7 @@ My background in finance gave me firsthand experience with the critical importan
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation (w/Tenable)](https://github.com/saulsosa1/Vulnerability-Management-Program/tree/main)**
+- **[Vulnerability Management Program Implementation (w/Tenable)](https://github.com/saulsosa1/Vulnerability-Management-Program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
