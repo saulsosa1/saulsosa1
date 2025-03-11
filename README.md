@@ -1,6 +1,6 @@
 <h1>Hi, I'm Saul! <br/><a href="https://linkedin.com/in/saul-villanueva-sosa">Cybersecurity Professional</a></h1>
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+My background in finance gave me firsthand experience with the critical importance of security—working with PII, SPII, and confidential data in regulated environments made me deeply aware of the risks organizations face. That exposure fueled my passion for cybersecurity, driving me to move beyond compliance and controls to actively securing systems against threats. Through hands-on projects in vulnerability management, log analysis, and threat detection, I continue to build on that foundation, always seeking new ways to strengthen security operations.
 
 
 ## ⚠️ Vulnerability Management Projects
