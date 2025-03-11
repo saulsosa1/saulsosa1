@@ -10,7 +10,7 @@ My background in finance gave me firsthand experience with the critical importan
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Cloud Honeynet + SOC (w/Azure)](https://github.com/saulsosa1/Azure-SOC)**
+- **[Building a Cloud Honeynet + SOC with Azure (Live Traffic)](https://github.com/saulsosa1/Azure-SOC)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
 <hr/>
