@@ -1,4 +1,4 @@
-<h1>Hi, I'm Saul! <br/><a href="https://linkedin.com/in/saul-villanueva-sosa">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Saul! <br/><a href="https://linkedin.com/in/saul-villanueva-sosa">Cybersecurity Enthusiast</a></h1>
 
 My background in finance gave me firsthand experience with the critical importance of security; working with PII, SPII, and confidential data in regulated environments made me deeply aware of the risks organizations face. That exposure fueled my passion for cybersecurity, driving me to move beyond compliance and controls to actively securing systems against threats. Through hands-on projects in vulnerability management, log analysis, and threat detection, I continue to build on that foundation, always seeking new ways to strengthen security operations.
 
